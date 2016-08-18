@@ -1,0 +1,8 @@
+{
+  "db": {
+    "database": "anp",
+    "host": "localhost",
+    "username": "guilherme",
+    "password": "password"
+  }
+}
